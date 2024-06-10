@@ -1,0 +1,26 @@
+[33mcommit c038adc4ffc4c38d1bb339ee5317e18c4fa53092[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: getulio <gtuliorocha@gmail.com>
+Date:   Mon Jun 10 11:09:59 2024 -0300
+
+    inclusão changelog.md
+
+ changelog.md | 10 [32m++++++++++[m
+ 1 file changed, 10 insertions(+)
+
+[33mcommit e0fc461ca9637f5d12222d464488581266c47873[m
+Author: getulio <gtuliorocha@gmail.com>
+Date:   Mon Jun 10 10:49:25 2024 -0300
+
+    colocando acentuação no arquivo.txt
+
+ arquivo.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 957faaee26cdff25dece713a64f79cbe365c4b88[m
+Author: getulio <gtuliorocha@gmail.com>
+Date:   Mon Jun 10 10:44:47 2024 -0300
+
+    alterando o conteudo de arquivo.txt
+
+ arquivo.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
